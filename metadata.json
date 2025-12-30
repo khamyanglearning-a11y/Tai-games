@@ -1,0 +1,8 @@
+{
+  "name": "Tai Clubhouse",
+  "description": "An interactive language learning hub for Tai words and sentences, featuring AI-powered quizzes, image-to-word matching games, and a friendly community vibe.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
